@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Student Placement Coordinator",
+            "subtitle": "IIIT KOTA",
+            "workDescription": [
+                "Coordinated and managed placement activities, ensuring seamless communication between students and recruiters."
+            ],
+            "dateText": "05/2024 – Present"
+        },
+        {
+            "title": "AI/ML Intern",
+            "subtitle": "Nexus Info",
+            "workType": "Internship",
+            "workDescription": [
+                "Integrated two new products into the existing platform, enhancing functionality and user experience.",
+                "Optimized the system by adding specific machine learning models, improving processing speed by 50%."
+            ],
+            "dateText": "04/2024 – 05/2024"
+        },
+        {
+            "title": "Data Science Intern",
+            "subtitle": "Codsoft",
+            "workType": "Internship",
+            "workDescription": [
+                "Conducted data analysis and worked on various data science projects to derive actionable insights.",
+                "Assisted in developing and testing data models to improve prediction accuracy."
+            ],
+            "dateText": "02/2024 – 03/2024"
+        }
+    ]
+}

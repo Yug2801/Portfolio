@@ -1,0 +1,207 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/Portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/cyph3r.png",
+            "title": "Cyph3r",
+            "bodyText": "Built a website for the college cybersecurity club using React.js, Node.js and Firebase, providing a platform for members to share resources and updates. Ensured secure user authentication and real-time data synchronization for enhanced user interaction.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/CYPH3R_WEB"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://yug2801.github.io/CYPH3R_WEB/#/" 
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Node.js",
+                "Firebase",
+                "Tailwind"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/csv.png",
+            "title": "CSV Analyzer",
+            "bodyText": "\n - Developed a CSV file analyzer that plots graphs and answers dataset-related queries using the LLaMA 2 model\n - Provided insightful visualizations and leveraged AI to generate accurate, context-aware responses for data analysis",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/Assignment_CV"
+                },
+                {
+                    "text":"Live",
+                    "href":"https://assignment-cv.streamlit.app/"
+                }
+
+            ],
+            "tags" : [
+                "Matplotlib",
+                "LLaMA 2",
+                "Numpy",
+                "Pandas",
+                "Streamlit",
+                "Plotly",
+                "Python"
+                
+            ]
+        },
+       
+        {
+            "image" : "images/projects/Learnig.png",
+            "title": "Efficient Learning App",
+            "bodyText": "Developed an AI-powered learning platform that generates prompts and custom content based on user specifications and learning methods. Leveraged advanced algorithms to provide personalized and efficient learning experiences tailored to individual needs",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/Efficient_learning"
+                },
+                {
+                    "text":"Live",
+                    "href":"https://studysmartt.netlify.app/"
+
+                }
+            ],
+            "tags" : [
+                "Vite+React.js",
+                "Node.js",
+                "Firebase",
+                "Tailwind",
+                "Reinforcement Learning",
+                "Machine Learning",
+                "Gemini API",
+                "Prompt Engineering"
+            ]
+        },
+        {
+            "title": "Violence Detection",
+            "bodyText": " - Developed a violence detection system using a merged InceptionV3 and ConvLSTM model, achieving high accuracy in real-time video analysis \n - This approach combines powerful feature extraction with temporal sequence learning to effectively identify violent activities.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/Violence_detection_"
+                }
+            ],
+            "tags" : [
+                "InceptionV3",
+                "ConvLSTM",
+                "Python",
+                "VGG16",
+                "Numpy",
+                "Pandas"
+            ]
+        },
+        {
+            "image" : "images/projects/ez-folio.png",
+            "title": "Resume builder",
+            "bodyText": "Developed a dynamic portfolio creator app using React.js, enabling users to customize and showcase their work seamlessly. Implemented responsive design and interactive features to enhance user experience and engagement.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/karan799/MYPORTFOLIO"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://ez-folio.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React.js",
+                "Node.js",
+                "Gemini API",
+                "Firebase",
+                "Tailwind"
+            ]
+        },
+        {
+            "image" : "images/projects/Heist.png",
+            "title": "The Digital Heist",
+            "bodyText": "Created a college club event website using HTML, CSS, and JavaScript, providing an engaging platform for event announcements and registrations. Implemented interactive elements and responsive design to ensure seamless user experience across all devices.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Manish-KT/The_digital_hiest_website/"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://manish-kt.github.io/The_digital_hiest_website/"
+                }
+
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        
+        
+        {
+            "title": "Text Summarization",
+            "bodyText": "\n - Implemented a text summarization NLP project using AWS services, leveraging advanced natural language processing algorithms. \n - Utilized AWS natural language processing tools to efficiently summarize large volumes of text data, providing concise and informative summaries. Integrated CI/CD pipelines for automated deployment and continuous improvement.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/text_summarizer"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "CI/CD pipelining",
+                "AWS",
+                "Docker",
+                "NLP"
+            ]
+        },
+        {
+            "title": "Voice Assitant",
+            "bodyText": "- Developed a voice assistant with Hindi language support, leveraging advanced natural language processing techniques and the Random Forest algorithm. \n - Enabled seamless interaction in Hindi, utilizing Random Forest for intent recognition and response generation, enhancing user experience and accessibility.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/Ai_voice_assistant"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Random Forest",
+                "Sklearn",
+                "Web Scraapping"
+            ]
+        },
+        {
+            "title": "Employee Management System",
+            "bodyText": "- Developed an employee management system using Python, MySQL, and Tkinter, providing a user-friendly interface for managing employee data.\n - Integrated MySQL database for efficient storage and retrieval of employee information, enhancing data organization and management within the system.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Yug2801/Project-python"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Tkinter",
+                "MYSQL"
+                
+            ]
+        }
+    ]
+}
